@@ -86,3 +86,9 @@ api.post('some-api-url', (req, res) => {
 
 //from front end you have to update a record and in response of an api you've to return the updated document
 
+//pc - personal computer - 8 ram 120Gb storage
+//vmware tool - url and config ans start using the virtual instance
+
+//we as a company has to purchase it and ship to you
+//machine - 32gb ram 2tb hdd
+//vmware virtual instance
