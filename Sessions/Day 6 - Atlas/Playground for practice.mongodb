@@ -1,0 +1,4 @@
+
+use('sample_airbnb');
+// Insert a few documents into the sales collection.
+db.listingsAndReviews.find().limit(1);
